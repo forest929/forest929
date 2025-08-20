@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi everyone, I'm Kexin  
 
-<!--
-**forest929/forest929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Journey & Background  
+I bring a multidisciplinary approach that blends data science and biological research. My experience spans across managing and analysing large-scale datasets in both ecological and medical imaging domains.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kexin-wang-176110248/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Projects at a Glance 
+
+| Project | Brief Description |
+|---------|-------------------|
+| [**MultispeQ_data_analysis**](https://github.com/forest929/MultispeQ_data_analysis) | Workflow analyzing PhotosynQ data with Python — cleaning, exploratory plots, correlation heatmaps, visualizations. |
+| [**Data_Analysis_workfow_plant_growth**](https://github.com/forest929/Data_Analysis_workfow_plant_growth) | Step-by-step workflow for plant growth data: collection → cleaning → visualization (Excel, pandas, Matplotlib). |
+| [**Healthcare_data_analysis_with_Python**](https://github.com/forest929/Healthcare_data_analysis_with_Python) | Python analysis of measles case data with trends & vaccination impact insights. |
+| [**Retail_business_performance_analysis_with_SQL**](https://github.com/forest929/Retail_business_performance_analysis_with_SQL) | SQL project analyzing retail business metrics (performance, revenue trends). |
+| [**portfolio**](https://github.com/forest929/portfolio) | Showcase of my work and personal projects (HTML). |
+
+---
